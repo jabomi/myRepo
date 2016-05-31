@@ -1,1 +1,2 @@
 # myRepo
+moje repozytorium
